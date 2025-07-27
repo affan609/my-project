@@ -1,12 +1,83 @@
 
 /* Responsive Styles */
 
-@media (max-width: 300px) and(max-width:580) {
+@media only screen and (max-width: 300px) {
   body {
     flex-direction: row;
   }
 
   header {
     padding: 1rem;
+    flex-direction: row;
+  }
+  section{
+    flex-direction: row;
+  }
+  footer{
+    flex-direction: row;
+  }
+}
+@media only screen and (max-width: 600px) {
+  body {
+    flex-direction: row;
+  }
+
+  header {
+    padding: 1rem;
+    flex-direction: row;
+  }
+  section{
+    flex-direction: row;
+  }
+  footer{
+    flex-direction: row;
+  }
+}
+@media only screen and (max-width: 900px) {
+  body {
+    flex-direction: row;
+  }
+
+  header {
+    padding: 1rem;
+    flex-direction: row;
+  }
+  section{
+    flex-direction: row;
+  }
+  footer{
+    flex-direction: row;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  body {
+    flex-direction: row;
+  }
+
+  header {
+    padding: 1rem;
+    flex-direction: row;
+  }
+  section{
+    flex-direction: row;
+  }
+  footer{
+    flex-direction: row;
+  }
+}
+@media only screen and (max-width: 1400px) {
+  body {
+    flex-direction: row;
+  }
+
+  header {
+    padding: 1rem;
+    flex-direction: row;
+  }
+  section{
+    flex-direction: row;
+  }
+  footer{
+    flex-direction: row;
   }
 }
